@@ -105,15 +105,9 @@ Confusion matrices & ROC curves are in the notebook.
 
 ## 👤 Author
 Yashveer Sabharwal  
-BITS Goa Consulting Group  
-*LinkedIn:* <https://linkedin.com/in/YOUR‑PROFILE>
+BITS Goa  
+*LinkedIn:* <https://linkedin.com/in/yashveer-sabharwal-034846250>
 
 ---
 
-## 📜 License
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
-
-👤 Author
-
-Yashveer SabharwalBITS Goa LinkedIn: www.linkedin.com/in/yashveer-sabharwal-034846250
 
